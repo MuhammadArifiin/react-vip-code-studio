@@ -32,7 +32,7 @@ const FormRegister = () => {
 
                 <Button
                     text="Register"
-                    variant="bg-blue-600 w-full text-white"
+                    className="bg-blue-600 w-full text-white"
                 />
             </form>
         </>
